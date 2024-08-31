@@ -1,3 +1,9 @@
+This is a covers images of this project:
+![alt text](public/minecraft-lg.png) !
+[alt text](public/minecraft-sm.png)
+
+you are free to use this source code, thanks
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
