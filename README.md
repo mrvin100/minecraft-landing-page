@@ -1,6 +1,6 @@
 This is a covers images of this project:
 ![large device image](public/minecraft-lg.png) 
-![small device image](public/minecraft-sm.png)
+<!-- ![small device image](public/minecraft-sm.png) -->
 
 you are free to use this source code, thanks
 
